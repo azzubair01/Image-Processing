@@ -7,3 +7,6 @@
   3. Image retrieval – Seek for the image of interest.
   4. Measurement of pattern – Measures various objects in an image.
   5. Image Recognition – Distinguish the objects in an image. 
+  
+## Current Version
+- Currently, we provide jupyter notebooks for Image Enhancement, and Classifications tasks
